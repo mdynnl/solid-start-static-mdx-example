@@ -1,0 +1,59 @@
+{
+  "_index-a96602bc.js": {
+    "file": "assets/index-a96602bc.js",
+    "imports": [
+      "src/entry-client.jsx"
+    ]
+  },
+  "src/entry-client.css": {
+    "file": "assets/entry-client-d870915a.css",
+    "src": "src/entry-client.css"
+  },
+  "src/entry-client.jsx": {
+    "css": [
+      "assets/entry-client-d870915a.css"
+    ],
+    "dynamicImports": [
+      "src/routes/[...404].mdx",
+      "src/routes/docs.mdx",
+      "src/routes/index.mdx"
+    ],
+    "file": "assets/entry-client-3ca96fdd.js",
+    "isEntry": true,
+    "src": "src/entry-client.jsx"
+  },
+  "src/routes/[...404].mdx": {
+    "file": "assets/_...404_-b8a5beab.js",
+    "imports": [
+      "_index-a96602bc.js",
+      "src/entry-client.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/[...404].mdx"
+  },
+  "src/routes/docs.mdx": {
+    "file": "assets/docs-24fd41a3.js",
+    "imports": [
+      "_index-a96602bc.js",
+      "src/entry-client.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/docs.mdx"
+  },
+  "src/routes/index.css": {
+    "file": "assets/index-fdb6b3cf.css",
+    "src": "src/routes/index.css"
+  },
+  "src/routes/index.mdx": {
+    "css": [
+      "assets/index-fdb6b3cf.css"
+    ],
+    "file": "assets/index-f8c274c7.js",
+    "imports": [
+      "_index-a96602bc.js",
+      "src/entry-client.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/index.mdx"
+  }
+}
