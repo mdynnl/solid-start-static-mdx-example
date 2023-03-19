@@ -1,3 +1,4 @@
+import solidStartStatic from "solid-start-static";
 import solid from "solid-start/vite";
 import { defineConfig } from "vite";
 export default defineConfig({
@@ -12,6 +13,7 @@ export default defineConfig({
     },
     solid({
       extensions: [".mdx", ".md"],
+      adapter: solidStartStatic(),
     }),
   ],
 });
