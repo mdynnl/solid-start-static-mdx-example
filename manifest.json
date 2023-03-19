@@ -1,6 +1,6 @@
 {
-  "_index-a96602bc.js": {
-    "file": "assets/index-a96602bc.js",
+  "_index-3fe20828.js": {
+    "file": "assets/index-3fe20828.js",
     "imports": [
       "src/entry-client.jsx"
     ]
@@ -18,23 +18,23 @@
       "src/routes/docs.mdx",
       "src/routes/index.mdx"
     ],
-    "file": "assets/entry-client-3ca96fdd.js",
+    "file": "assets/entry-client-358052b1.js",
     "isEntry": true,
     "src": "src/entry-client.jsx"
   },
   "src/routes/[...404].mdx": {
-    "file": "assets/_...404_-b8a5beab.js",
+    "file": "assets/_...404_-0b850961.js",
     "imports": [
-      "_index-a96602bc.js",
+      "_index-3fe20828.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/[...404].mdx"
   },
   "src/routes/docs.mdx": {
-    "file": "assets/docs-24fd41a3.js",
+    "file": "assets/docs-c4e0a34a.js",
     "imports": [
-      "_index-a96602bc.js",
+      "_index-3fe20828.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
@@ -48,9 +48,9 @@
     "css": [
       "assets/index-fdb6b3cf.css"
     ],
-    "file": "assets/index-f8c274c7.js",
+    "file": "assets/index-a88deb60.js",
     "imports": [
-      "_index-a96602bc.js",
+      "_index-3fe20828.js",
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,

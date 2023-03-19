@@ -18,7 +18,7 @@
   "node_modules/.pnpm/solid-js@1.6.15/node_modules/solid-js/web/dist/web.js": [
   ],
   "node_modules/.pnpm/solid-mdx@0.0.6_solid-js@1.6.15+vite@4.2.0/node_modules/solid-mdx/dist/index.mjs": [
-    "/assets/index-a96602bc.js"
+    "/solid-start-static-mdx-example/assets/index-3fe20828.js"
   ],
   "node_modules/.pnpm/solid-start@0.2.23_iqb7zsdtcx64oxz7xtl6awy32a/node_modules/solid-start/entry-client/StartClient.tsx": [
   ],
@@ -39,12 +39,12 @@
   "node_modules/.pnpm/solid-start@0.2.23_iqb7zsdtcx64oxz7xtl6awy32a/node_modules/solid-start/server/types.tsx": [
   ],
   "src/components/Counter.css": [
-    "/assets/index-f8c274c7.js",
-    "/assets/index-fdb6b3cf.css"
+    "/solid-start-static-mdx-example/assets/index-a88deb60.js",
+    "/solid-start-static-mdx-example/assets/index-fdb6b3cf.css"
   ],
   "src/components/Counter.jsx": [
-    "/assets/index-f8c274c7.js",
-    "/assets/index-fdb6b3cf.css"
+    "/solid-start-static-mdx-example/assets/index-a88deb60.js",
+    "/solid-start-static-mdx-example/assets/index-fdb6b3cf.css"
   ],
   "src/entry-client.jsx": [
   ],
@@ -53,13 +53,13 @@
   "src/root.jsx": [
   ],
   "src/routes/[...404].mdx": [
-    "/assets/_...404_-b8a5beab.js"
+    "/solid-start-static-mdx-example/assets/_...404_-0b850961.js"
   ],
   "src/routes/docs.mdx": [
-    "/assets/docs-24fd41a3.js"
+    "/solid-start-static-mdx-example/assets/docs-c4e0a34a.js"
   ],
   "src/routes/index.mdx": [
-    "/assets/index-f8c274c7.js",
-    "/assets/index-fdb6b3cf.css"
+    "/solid-start-static-mdx-example/assets/index-a88deb60.js",
+    "/solid-start-static-mdx-example/assets/index-fdb6b3cf.css"
   ]
 }

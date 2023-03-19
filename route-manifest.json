@@ -2,69 +2,69 @@
   "/*404": [
     {
       "type": "script",
-      "href": "/assets/_...404_-b8a5beab.js"
+      "href": "/solid-start-static-mdx-example/assets/_...404_-0b850961.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-a96602bc.js"
+      "href": "/solid-start-static-mdx-example/assets/index-3fe20828.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-3ca96fdd.js"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-358052b1.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-d870915a.css"
     }
   ],
   "/docs": [
     {
       "type": "script",
-      "href": "/assets/docs-24fd41a3.js"
+      "href": "/solid-start-static-mdx-example/assets/docs-c4e0a34a.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-a96602bc.js"
+      "href": "/solid-start-static-mdx-example/assets/index-3fe20828.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-3ca96fdd.js"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-358052b1.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-d870915a.css"
     }
   ],
   "/": [
     {
       "type": "script",
-      "href": "/assets/index-f8c274c7.js"
+      "href": "/solid-start-static-mdx-example/assets/index-a88deb60.js"
     },
     {
       "type": "script",
-      "href": "/assets/index-a96602bc.js"
+      "href": "/solid-start-static-mdx-example/assets/index-3fe20828.js"
     },
     {
       "type": "script",
-      "href": "/assets/entry-client-3ca96fdd.js"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-358052b1.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-d870915a.css"
     },
     {
       "type": "style",
-      "href": "/assets/index-fdb6b3cf.css"
+      "href": "/solid-start-static-mdx-example/assets/index-fdb6b3cf.css"
     }
   ],
   "entry-client": [
     {
       "type": "script",
-      "href": "/assets/entry-client-3ca96fdd.js"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-358052b1.js"
     },
     {
       "type": "style",
-      "href": "/assets/entry-client-d870915a.css"
+      "href": "/solid-start-static-mdx-example/assets/entry-client-d870915a.css"
     }
   ],
   "index.html": []
