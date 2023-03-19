@@ -7,7 +7,7 @@ export default defineConfig({
       ...(await import("@mdx-js/rollup")).default({
         jsx: true,
         jsxImportSource: "solid-js",
-        providerImportSource: "solid-mdx",
+        providerImportSource: "/node_modules/solid-mdx",
       }),
       enforce: "pre",
     },
