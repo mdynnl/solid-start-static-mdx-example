@@ -3,11 +3,13 @@
   "scripts": {
     "dev": "solid-start dev",
     "build": "solid-start build",
-    "start": "solid-start start"
+    "__start__": "solid-start start",
+    "start": "serve dist/public"
   },
   "type": "module",
   "devDependencies": {
     "@mdx-js/rollup": "^2.2.1",
+    "serve": "^14.2.0",
     "solid-start-node": "^0.2.19",
     "vite": "^4.1.4"
   },
@@ -17,7 +19,7 @@
     "solid-js": "^1.6.11",
     "solid-mdx": "^0.0.6",
     "solid-start": "^0.2.23",
-    "solid-start-static": "^0.2.23",
+    "solid-start-static": "0.1.0-alpha.105",
     "undici": "^5.15.1"
   },
   "engines": {
