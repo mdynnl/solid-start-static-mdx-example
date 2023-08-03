@@ -11,7 +11,7 @@
     "@mdx-js/rollup": "^2.2.1",
     "serve": "^14.2.0",
     "solid-start-node": "^0.2.19",
-    "vite": "^4.1.4"
+    "vite": "^4.2.3"
   },
   "dependencies": {
     "@solidjs/meta": "^0.28.2",
